@@ -2,6 +2,6 @@
 # Star Wars Repo
 
 
-![./xfighter.png](X Fighter)
+!{**X Fighte**](./xfighter.png)
 
 Este repositório serve de exemplo para o curso Git e Github.
